@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+}
+
+
+p{
+font-size : 50px ;
+}
+ol{
+font-size : 40px ;
+padding-left : 50px;
+}
+
+ul{
+font-size : 40px ;
+padding-left : 50px;
+}
+
+
+ ::selection {
+    color: green;
+    background: black;
+}

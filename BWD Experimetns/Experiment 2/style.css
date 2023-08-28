@@ -1,0 +1,26 @@
+body {
+    background-color: green;
+}
+
+h1 {
+    color: green;
+}
+
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #909090;
+    width: 300px;
+    border: 10px solid whitesmoke;
+    border-radius: 35%;
+    border-spacing: inherit;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 550px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+ ::selection {
+    color: green;
+    background: black;
+}
